@@ -12,10 +12,10 @@ Student of the Faculty of Computer Systems and Networks of BSUIR
 [![LinkedIn stats-Light](https://img.shields.io/badge/-LinkedIn-FFF?style=for-the-badge&logo=LinkedIn&logoColor=3399CC#gh-light-mode-only)](https://www.linkedin.com/in/pisarchyck-elizaveta-b8b574289#gh-light-mode-only)
 
 ## 🛠 Stack
-  <div align="left">
-    <img src="https://skillicons.dev/icons?i=java,css,html,cpp,git" height="40" alt="python logo"  />
-    <img width="12" />
-  </div>
+  <div style="display: flex; gap: 0; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=java,css,html,cpp,git" height="40" alt="tech stack" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaaaXSlNK79RpWZljIlfTRKnL7vjpbCLiQxQ&s" height="40" alt="delphi logo" />
+</div>
 
 ###
 <details>
