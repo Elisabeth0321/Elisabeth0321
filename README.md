@@ -13,7 +13,7 @@ Student of the Faculty of Computer Systems and Networks of BSUIR
 
 ## 🛠 Stack
   <div style="display: flex; gap: 0; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=java,css,html,cpp,git" height="40" alt="tech stack" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,docker,postman,js,css,html,cpp,git" height="40" alt="tech stack" />
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaaaXSlNK79RpWZljIlfTRKnL7vjpbCLiQxQ&s" height="40" alt="delphi logo" />
 </div>
 
